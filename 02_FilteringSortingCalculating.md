@@ -41,6 +41,23 @@
 
 ## Using Wildcards in SQL
 - using % wildcards:
+    - % wildcard will not match NULLs
+    - NULL represents no value in a column
 
-    ![32]()
-    ![33]()
+    ![32](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/33_wildcards.png)
+    ![33](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/34_wildcards.png)
+
+- unsing underscore(_) wildcard:
+    - matches a single charater
+    - is not suported by DB2
+    
+    ![34]()
+
+- using Bracket [] wildcard
+    - used to specify a set of characters in a specific location
+    - Does not work with all DBMS
+    - Does not work with SQLite
+
+- Downsides of wildcards
+
+    ![35]()
