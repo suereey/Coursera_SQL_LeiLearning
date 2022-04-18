@@ -20,5 +20,21 @@
 
     ![27](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/27_WHERE.png)
     
-    ## Advanced Filtering: IN, OR, and NOT
-- In
+## Advanced Filtering: IN, OR, and NOT
+- IN Operator
+    - Specifies a range of conditions
+    - Comma delimited list of values
+    - Enclosed in ()
+
+    ![28]()
+
+- OR Operator
+
+    ![29]()
+
+- OR with AND
+    - sql process or before. use () to be safe
+    ![30]()
+
+- NOT Operator
+    ![31]()
