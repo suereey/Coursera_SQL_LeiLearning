@@ -111,18 +111,18 @@
 
 - Groupby example
 
-    ![46]()
+    ![46](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/46_groupby.png)
 
 - **Having clause** -filtering for groups
     - WHERE does not work for groups
     - WHERE filters on rows
     - Instead use HAVING clause to filter for groups
 
-    ![47]()
+    ![47](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/47_groupby.png)
 
 - WHERE vs. HAVING
     - WHERE filters before data is grouped
     - HAVING filters after data is grouped
     - Rows eliminated by the WHERE clause will not be included in the group
 
-    ![48]()
+    ![48](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/48_groupby.png)
