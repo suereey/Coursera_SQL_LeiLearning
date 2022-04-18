@@ -44,14 +44,14 @@
     - % wildcard will not match NULLs
     - NULL represents no value in a column
 
-    ![32](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/33_wildcards.png)
-    ![33](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/34_wildcards.png)
+    ![33](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/33_wildcards.png)
+    ![34](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/34_wildcards.png)
 
 - unsing underscore(_) wildcard:
     - matches a single charater
     - is not suported by DB2
     
-    ![34]()
+    ![35](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/35_wildcards.png)
 
 - using Bracket [] wildcard
     - used to specify a set of characters in a specific location
@@ -60,4 +60,18 @@
 
 - Downsides of wildcards
 
-    ![35]()
+    ![36](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/36_wildcarddownside.png)
+
+## Sorting with ORDER BY
+- Why sorting
+
+    ![37]()
+
+- Sorting by column poisiton
+
+    ![38]()
+
+- Sorting direction
+    - DESC descending order
+    - ASC ascending order
+## Math Operator
