@@ -4,19 +4,21 @@
 - WHERE
     - select for the matched one
 
-    ![22]()
-    ![23]()
-    ![24]()
+    ![22](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/22_WHERE.png)
+    ![23](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/23_WHERE.png)
+    ![24](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/24_WHERE.png)
 
     - filter out a certain string
 
-    ![25]()
+    ![25](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/25_WHERE.png)
 
     - select between a range
 
-    ![26]()
+    ![26](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/26_WHERE.png)
 
     - select null
 
-    ![27]()
+    ![27](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/27_WHERE.png)
     
+    ## Advanced Filtering: IN, OR, and NOT
+- In
