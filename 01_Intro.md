@@ -71,6 +71,7 @@
 ## Creating Tables
 - Create Tables
     - Primary key must have a value
+
     ![17](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/17_createTable.png)
 
 - Add data to Table
@@ -83,7 +84,14 @@
     - Faster than creating a real table
     - Useful for complex queries using subsets and joins
 
-    ![19]()
-    ![20]()
+    ![19](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/19_temptable.png)
+    ![20](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/20_temptable.png)
 
 ## Adding comments to SQL
+- Adding comments
+    ```
+    --
+    /* */
+    ```
+
+    ![21]()
