@@ -83,3 +83,29 @@
     ![40]()
 
 ## Aggregate Functions
+- AVG()
+
+    ![41]()
+
+- COUNT()
+
+    ![42]()
+
+- MIN(), MAX()
+
+    ![43]()
+
+- SUM()
+
+    ![44]()
+
+
+- **Distinct**
+
+
+    ![45]()
+
+## Grouping Data with SQL
+
+
+
