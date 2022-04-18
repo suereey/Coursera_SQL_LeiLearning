@@ -79,31 +79,31 @@
 ## Math Operator
 - Example
 
-    ![39]()
-    ![40]()
+    ![39](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/39_mathoperator.png)
+    ![40](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/40_mathoperator.png)
 
 ## Aggregate Functions
 - AVG()
 
-    ![41]()
+    ![41](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/41_aggregatefunc.png)
 
 - COUNT()
 
-    ![42]()
+    ![42](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/42_aggregatefunc_COUNT.png)
 
 - MIN(), MAX()
 
-    ![43]()
+    ![43](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/43_aggregatefunc_minmax.png)
 
 - SUM()
 
-    ![44]()
+    ![44](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/44_aggregatefunc_sum.png)
 
 
 - **Distinct**
 
 
-    ![45]()
+    ![45](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/45_distinct.png)
 
 ## Grouping Data with SQL
 
