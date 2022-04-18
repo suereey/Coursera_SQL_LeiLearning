@@ -65,13 +65,21 @@
 ## Sorting with ORDER BY
 - Why sorting
 
-    ![37]()
+    ![37](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/37_sorting.png)
 
 - Sorting by column poisiton
 
-    ![38]()
+    ![38](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/38_sorting.png)
 
 - Sorting direction
     - DESC descending order
     - ASC ascending order
+
+
 ## Math Operator
+- Example
+
+    ![39]()
+    ![40]()
+
+## Aggregate Functions
