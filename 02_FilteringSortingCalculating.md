@@ -34,9 +34,11 @@
 
 - OR with AND
     - sql process or before. use () to be safe
+    
     ![30](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/30_ORAND.png)
 
 - NOT Operator
+
     ![31](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/31_NOT.png)
 
 ## Using Wildcards in SQL
@@ -107,5 +109,20 @@
 
 ## Grouping Data with SQL
 
+- Groupby example
 
+    ![46]()
 
+- **Having clause** -filtering for groups
+    - WHERE does not work for groups
+    - WHERE filters on rows
+    - Instead use HAVING clause to filter for groups
+
+    ![47]()
+
+- WHERE vs. HAVING
+    - WHERE filters before data is grouped
+    - HAVING filters after data is grouped
+    - Rows eliminated by the WHERE clause will not be included in the group
+
+    ![48]()
