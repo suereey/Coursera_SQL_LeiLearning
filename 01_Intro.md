@@ -94,4 +94,4 @@
     /* */
     ```
 
-    ![21]()
+    ![21](https://github.com/suereey/Coursera_SQL_LeiLearning/blob/main/screenshot/21_commentcode.png)
