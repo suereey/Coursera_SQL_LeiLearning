@@ -65,7 +65,14 @@
     ![15](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/15_Select.png)
 
     - Compare different system's syntaxes
-    
+
     ![16]()
 
 ## Creating Tables
+- Create Tables
+    - Primary key must have a value
+    ![17]()
+
+- Add data to Table
+
+    ![18]()
