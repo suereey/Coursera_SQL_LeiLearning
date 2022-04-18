@@ -126,3 +126,7 @@
     - Rows eliminated by the WHERE clause will not be included in the group
 
     ![48](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/48_groupby.png)
+
+## Summary
+
+![49]()
