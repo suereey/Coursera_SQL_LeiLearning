@@ -26,15 +26,21 @@
     - Comma delimited list of values
     - Enclosed in ()
 
-    ![28]()
+    ![28](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/28_IN.png)
 
 - OR Operator
 
-    ![29]()
+    ![29](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/29_OR.png)
 
 - OR with AND
     - sql process or before. use () to be safe
-    ![30]()
+    ![30](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/30_ORAND.png)
 
 - NOT Operator
-    ![31]()
+    ![31](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/31_NOT.png)
+
+## Using Wildcards in SQL
+- using % wildcards:
+
+    ![32]()
+    ![33]()
