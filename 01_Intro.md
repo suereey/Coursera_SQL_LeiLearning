@@ -66,13 +66,24 @@
 
     - Compare different system's syntaxes
 
-    ![16]()
+    ![16](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/16_compare.png)
 
 ## Creating Tables
 - Create Tables
     - Primary key must have a value
-    ![17]()
+    ![17](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/17_createTable.png)
 
 - Add data to Table
 
-    ![18]()
+    ![18](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/18_addData.png)
+
+## Creating Temporary Tables
+- Why temp table?
+    - temp table will be delted when current session is terminated
+    - Faster than creating a real table
+    - Useful for complex queries using subsets and joins
+
+    ![19]()
+    ![20]()
+
+## Adding comments to SQL
