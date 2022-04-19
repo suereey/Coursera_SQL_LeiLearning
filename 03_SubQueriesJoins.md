@@ -58,10 +58,10 @@
 ## Inner Joins
 - what is inner join?
 
-    ![58]()
-    ![59]()
-    ![60]()
-    ![61]()
+    ![58](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/58_innerjoin.png)
+    ![59](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/59_innerjoin.png)
+    ![60](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/60_innerjoin.png)
+    ![61](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/61_innerjoin.png)
 
 - Best practices with joins
     - make sure youare pre-qualifying names
@@ -72,17 +72,21 @@
 ## Aliases and Self Joins
 - what is alias
 
-    ![62]()
-    ![63]()
+    ![62](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/62_alias.png)
+    ![63](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/63_alias.png)
 
 - Self Joins
 
-    ![64]()
-    ![65]()
+    ![64](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/64_selfjoin.png)
+    ![65](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/65_selfjoin.png)
 
 ## Advanced Joins: Left, Right, and Full Outer Joins
 - SQL Lite vs. Other Sql DBMS
     - SQL Lite only does left joins
     - other database management systems use all joins
+
+- Left Join
+
+    ![66]()
 
 ## Unions
