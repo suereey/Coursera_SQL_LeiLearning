@@ -68,3 +68,21 @@
     - do not make unnecessary joins
     - think about the type of join you are making
     - how are you connecting records?
+
+## Aliases and Self Joins
+- what is alias
+
+    ![62]()
+    ![63]()
+
+- Self Joins
+
+    ![64]()
+    ![65]()
+
+## Advanced Joins: Left, Right, and Full Outer Joins
+- SQL Lite vs. Other Sql DBMS
+    - SQL Lite only does left joins
+    - other database management systems use all joins
+
+## Unions
