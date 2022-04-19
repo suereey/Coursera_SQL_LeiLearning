@@ -31,7 +31,7 @@
 
 - Example subqueries for calculation
 
-    ![54]()
+    ![54](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/54_subquery.png)
 
 - The Power of subqueries
     - subqueries are powerfule tools
@@ -86,11 +86,39 @@
     - other database management systems use all joins
 
 - Left Join, Right Join, Full Outer Join
+    - differece between right and left is the order the tables are relating
+
+    - left joins can be turned into right joins by reversing the order of the tables
 
     ![66](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/66_leftjoin.png)
-    ![69]()
-    ![67]()
-    ![68]()
+    ![69](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/69_leftjoin.png)
+    ![67](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/67_rightjoin.png)
+    ![70](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/70_rightjoin.png)
+    ![68](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/68_fulljoin.png)
+    ![71](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/71_fulljoin.png)
 
 
 ## Unions
+- What is union?
+    - UNION is used to combine the results of two or more queries or table sets into one table and one statement.
+    - Each select statement with UNION must have the same number of columns
+    - Columns must have similar data types
+    - The columnsin each SELECT statement must be in the same order
+
+    ![72]()
+
+## Summary
+- Best Practices using Joins
+    - Check for duplicates
+    - check the number of records each time you make a new join
+    - are you getting the results you expected?
+    - start small: one table at a time
+
+- SQL joins diagram
+
+    ![73]()
+
+
+## Others
+- Recommend reading: 
+[Difference Between Union and Union All - Optimal Performance Comparison](https://blog.sqlauthority.com/2009/03/11/sql-server-difference-between-union-vs-union-all-optimal-performance-comparison/)
