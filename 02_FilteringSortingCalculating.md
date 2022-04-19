@@ -129,4 +129,4 @@
 
 ## Summary
 
-![49]()
+![49](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/49_.png)
