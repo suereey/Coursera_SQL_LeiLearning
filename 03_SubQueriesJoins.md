@@ -38,6 +38,33 @@
     - not always the best option due to performance
 
 ## Joining Tables: An Introduction
+- Joins
+    - associate the correct records from each table on the fly.
+    - allow data retrieval from multiple tables in one query
+    - joins are not physical - they persist for the duration of the query execution
+
+    ![55](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/55_join.png)
+
+## Cartesian (Cross) Joins
+- what is cross join?
+    - not frequently used
+    - computationally taxing
+    - will return products with the incorrect vendor or no vendor at all
+
+    ![56](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/56_cartesian%20join.png)
+    ![57](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/57_cartesian%20join.png)
 
 
-## 
+## Inner Joins
+- what is inner join?
+
+    ![58]()
+    ![59]()
+    ![60]()
+    ![61]()
+
+- Best practices with joins
+    - make sure youare pre-qualifying names
+    - do not make unnecessary joins
+    - think about the type of join you are making
+    - how are you connecting records?
