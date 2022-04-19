@@ -85,8 +85,12 @@
     - SQL Lite only does left joins
     - other database management systems use all joins
 
-- Left Join
+- Left Join, Right Join, Full Outer Join
 
-    ![66]()
+    ![66](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/66_leftjoin.png)
+    ![69]()
+    ![67]()
+    ![68]()
+
 
 ## Unions

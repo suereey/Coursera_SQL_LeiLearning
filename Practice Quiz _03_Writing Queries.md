@@ -3,7 +3,7 @@ quiz pull from the open source Chinook Database. Please refer to the ER Diagram 
 column names to write accurate queries and get the appropriate
 answers.
 
-![01]()
+![01](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/practicequiz/01_ChinookDatabase.png)
 
 1. How many albums does the artist Led Zeppelin have?
 ```
