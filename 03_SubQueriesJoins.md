@@ -105,7 +105,7 @@
     - Columns must have similar data types
     - The columnsin each SELECT statement must be in the same order
 
-    ![72]()
+    ![72](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/72_union.png)
 
 ## Summary
 - Best Practices using Joins
@@ -116,7 +116,7 @@
 
 - SQL joins diagram
 
-    ![73]()
+    ![73](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/73_sqljoins.png)
 
 
 ## Others
