@@ -136,7 +136,17 @@ SELECT STRFTIME('%H %M %S %s', 'now');
     ![93](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/93_.png)
     ![94](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/94_.png)
     ![95](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/95_.png)
-    ![96]()
+    ![96](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/96_.png)
 
-    ![95]()
 
+
+## Summary For this course
+- Depicted standard SQL syntax
+- Defined standard database terminology
+- How to write simple queries to select data from tables and work with it
+- Discussed methods to filter and sort data results by using common operators and clauses
+- Dscribed subqueries and various JOINS
+- Used case statement to organize data
+- Identified strategies to use SQL for data science
+- Reminded you to "slowly do" when writing queries
+- Descirbed techniques to make queries clean and efficient
