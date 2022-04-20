@@ -127,6 +127,12 @@ SELECT STRFTIME('%H %M %S %s', 'now');
 
 - Business understanding and Beware of the unspoken need
 
-    ![90]()
-    ![91]()
+    ![90](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/90_.png)
+    ![91](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/91_.png)
+
+- d
+
+    ![92]()
+    ![93]()
+    ![94]()
 
