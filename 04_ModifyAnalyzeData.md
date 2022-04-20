@@ -67,7 +67,7 @@ SELECT STRFTIME('%H %M %S %s', 'now');
 
 - Search case statement
 
-    ![86]()
+    ![86](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/86_casestatement.png)
 
 ## Views
 - Overview of Views
@@ -83,6 +83,10 @@ SELECT STRFTIME('%H %M %S %s', 'now');
     select-statement
     ```
 
-    ![87]()
+- Example
 
+    ![87]()
     ![88]()
+    ![89]()
+
+    ![90]()
