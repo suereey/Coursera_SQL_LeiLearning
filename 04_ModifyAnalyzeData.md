@@ -35,12 +35,32 @@
 
     ![81](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/81_date.png)
 
-    - Modifiers: The time value can be followed by zero or more modifiers that alter date and/or time. Each modifier is a transformation that is applied to the time value to its left. Modifiers are applied from left to right; order is important. The available modifiers are as follows.
+- Modifiers: The time value can be followed by zero or more modifiers that alter date and/or time. Each modifier is a transformation that is applied to the time value to its left. Modifiers are applied from left to right; order is important. The available modifiers are as follows.
 
     ![82](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/82_modifier.png)
 
 ## Date and Time Strings Examples
+- **STRFTIME**, Example:
 
+    ![83]()
 
+- Compute current date
+```
+SELECT DATE('now');
+```
 
-## 
+- Compute year, month and day for the current date
+```
+SELECT STRFTIME('%Y %m %d', 'now');
+```
+
+- Compure hour, minute, second and milliseconds from curent datetime
+```
+SELECT STRFTIME('%H %M %S %s', 'now');
+```
+
+## Case Statements
+- What is case statement
+
+    ![84]()
+    ![85]()
