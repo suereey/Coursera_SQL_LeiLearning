@@ -135,7 +135,8 @@ SELECT STRFTIME('%H %M %S %s', 'now');
     ![92](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/92_.png)
     ![93](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/93_.png)
     ![94](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/94_.png)
-    ![95]()
+    ![95](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/95_.png)
+    ![96]()
 
     ![95]()
 
