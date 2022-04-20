@@ -85,8 +85,13 @@ SELECT STRFTIME('%H %M %S %s', 'now');
 
 - Example
 
-    ![87]()
-    ![88]()
-    ![89]()
+    ![87](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/87_views.png)
+    ![88](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/88_views.png)
+    ![89](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/89_views.png)
 
+## Data Governance and Profiling
+- what is data profiling 
+    - Looking at descriptive statistics or object data information - examining data for completeness and accuracy
+
+    - Im portant to understand your data before you query it
     ![90]()
