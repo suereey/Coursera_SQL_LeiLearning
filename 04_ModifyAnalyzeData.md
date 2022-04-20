@@ -42,7 +42,7 @@
 ## Date and Time Strings Examples
 - **STRFTIME**, Example:
 
-    ![83]()
+    ![83](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/83_Example1.png)
 
 - Compute current date
 ```
@@ -62,5 +62,27 @@ SELECT STRFTIME('%H %M %S %s', 'now');
 ## Case Statements
 - What is case statement
 
-    ![84]()
-    ![85]()
+    ![84](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/84_casestatement.png)
+    ![85](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/85_casestatement.png)
+
+- Search case statement
+
+    ![86]()
+
+## Views
+- Overview of Views
+    - a stored query
+    - can add or remove columns without changing schema
+    - use it to encapsulate queries
+    - the view will be removed after database coneections has ended
+
+    ```
+    CREATE [TEMP] VIEW [IF NOT EXISTS]
+    viewname(column-name-list)
+    AS
+    select-statement
+    ```
+
+    ![87]()
+
+    ![88]()
