@@ -93,5 +93,19 @@ SELECT STRFTIME('%H %M %S %s', 'now');
 - what is data profiling 
     - Looking at descriptive statistics or object data information - examining data for completeness and accuracy
 
-    - Im portant to understand your data before you query it
+    - Important to understand your data before you query it
+
+- Object 
+    - number of rows
+    - table size
+    - when the object was last updated
+
+- column data profile
+    - column data type
+    - number of discintct values
+    - number of rows with NULL values
+    - Descriptive statistics: maixmum, average and standard devaition for column values
+
     ![90]()
+
+## 
