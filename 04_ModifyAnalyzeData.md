@@ -130,9 +130,12 @@ SELECT STRFTIME('%H %M %S %s', 'now');
     ![90](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/90_.png)
     ![91](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/91_.png)
 
-- d
+- Detail steps:
 
-    ![92]()
-    ![93]()
-    ![94]()
+    ![92](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/92_.png)
+    ![93](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/93_.png)
+    ![94](https://raw.githubusercontent.com/suereey/Coursera_SQL_LeiLearning/main/screenshot/94_.png)
+    ![95]()
+
+    ![95]()
 
