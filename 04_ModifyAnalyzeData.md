@@ -95,7 +95,7 @@ SELECT STRFTIME('%H %M %S %s', 'now');
 
     - Important to understand your data before you query it
 
-- Object 
+- Object data profile
     - number of rows
     - table size
     - when the object was last updated
@@ -106,6 +106,27 @@ SELECT STRFTIME('%H %M %S %s', 'now');
     - number of rows with NULL values
     - Descriptive statistics: maixmum, average and standard devaition for column values
 
-    ![90]()
+- Governance best practices
+    - understand your read and write capabilities
+    - clean up your environments
+    - understand your promotion process
 
-## 
+## Using SQL for Data Science
+- Data understanding
+    - most impotrant step
+    - understanding relationships in your data
+    - NULL values
+    - String values
+    - Dates and times
+
+- Subject area understanding 
+    - until you gain business understanding, writing queries may take more time
+    - understanding where data joins are
+    - differentiating integers from strings
+    - investing time to understand your subject will help later during data analysis
+
+- Business understanding and Beware of the unspoken need
+
+    ![90]()
+    ![91]()
+
