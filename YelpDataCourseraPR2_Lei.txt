@@ -113,7 +113,7 @@ Note: Primary Keys are denoted in the ER-Diagram with a yellow key icon.
 	order by total_review desc;
 	
 	Copy and Paste the Result Below:
-		+-----------------+--------------+
+	+-----------------+--------------+
 	| city            | total_review |
 	+-----------------+--------------+
 	| Las Vegas       |         1561 |
